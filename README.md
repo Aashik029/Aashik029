@@ -1,70 +1,18 @@
-<!-- ========================================================
-  🎨 GitHub Profile README — The Creative & Interactive Developer
-  Perfect for creative technologists and frontend designers.
-  ======================================================== -->
+# 💫 About Me:
+Hi there, I'm Aashik Ahamed 👋<br><br>I'm a Computer Science Engineering student passionate about building full-stack web applications with the MERN stack and exploring AI-powered software development.<br><br>💻 What I work with<br><br>MERN Stack (MongoDB, Express.js, React, Node.js)<br>TypeScript & JavaScript<br>Tailwind CSS<br>Redis<br>JWT Authentication<br>REST APIs<br>Git & GitHub<br><br>🚀 Projects<br><br>Enterprise HRMS & Payroll Automation<br>AI-Powered E-Commerce Engine with Vector Search<br>Real-Time SaaS Collaboration Workspace (Slack/Notion-inspired)<br><br>🌱 Currently Learning<br><br>AI Automation<br>System Design<br>Scalable Backend Development<br>Modern React & TypeScript<br><br>🏆 Achievements<br><br>Level 2 Shortlisted – 24-Hour Hackathon (Innomatics Research Labs)<br>IBM Python for Data Science Certificate<br>Google AI-Powered Performance Ads Certification<br><br>🎯 Goal<br>To become a skilled AI Automation Developer and build scalable applications that combine AI with modern web technologies.<br><br>"Learning, building, and improving one project at a time."<br><br>"Learning, building, and improving one project at a time."<br><br>🎯 Goal<br>To become a skilled AI Automation Developer and build scalable applications that combine AI with modern web technologies.<br><br>"Learning, building, and improving one project at a time."
 
-# 🎨 Hey there! I'm Aashik Ahamed A. ✨
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&pause=1000&color=ec4899&center=true&vCenter=true&width=600&lines=Creative+Developer+%7C+UI+Designer;Making+code+look+beautiful+%E2%9C%A8;Three.js+%7C+WebGL+%7C+GSAP+Animator;Designing+Interactive+Digital+Art" alt="Typing SVG" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aashikahamed029/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashikahamed029@gmail.com) 
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dribbble.com/yourhandle"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Awwwards_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AashikTech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AashikTech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AashikTech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AashikTech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎨 Interactive Art & Code Chemistry
-
-I bridge the gap between imagination and browser rendering. I build interactive 3D websites, smooth micro-animations, and modular UI design systems that convert visitors into users.
-
-- 🕶️ Currently exploring: **WebGL fragment shaders and immersive VR experiences**.
-- 🚀 Animation toolkit: **GSAP (GreenSock), Framer Motion, and CSS keyframes**.
-- 💎 3D graphics: **Three.js, React Three Fiber, Spline, and Blender**.
-- 🎨 Design interface: **Figma, Adobe Creative Suite, and code-based design tokens**.
-
----
-
-## 🧰 Creative Palette
-
-### 3D & Animation
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-
-### Design & Front-End
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 🏆 Creative Milestones
-
-- 🏆 **3x Awwwards Site of the Day** (Creative portfolio sites)
-- 🎤 Speaker at **Interactive Web Tech Conf 2024**
-- 🎨 Co-creator of **open-source glsl-noise library** (800+ Github stars)
-
----
-
-## 💎 Interactive Projects
-
-### 🌌 Nova Shader Sandbox
-An interactive sandbox for editing and sharing fragment shaders in real-time.
-- **Stack:** React, WebGL, Tailwind, Three.js
-- **Link:** [📂 GitHub Repo](https://github.com/your-username/nova-sandbox) | ⭐ 1.1k
-
-### 🌀 Liquid Scroll
-A library providing liquid ripple scroll distortions for rich storytelling landing pages.
-- **Stack:** GSAP, Vanilla JS, Canvas API
-- **Link:** [📂 GitHub Repo](https://github.com/your-username/liquid-scroll) | ⭐ 940
-
----
-
-## 🤝 Let's Collaborate
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/your-username">your-username</a> — Make the web interactive! ✨</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
