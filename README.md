@@ -198,17 +198,10 @@ const aashik = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AashikTech&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=a78bfa&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9" />
 </p>
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashikTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" />
-</p>
-
 <!-- CONTRIBUTION GRAPH -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AashikTech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true&area_color=7c3aed&custom_title=Contribution%20Graph" />
 
 <br/>
-
-<!-- GITHUB TROPHIES -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AashikTech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 <br/>
 
