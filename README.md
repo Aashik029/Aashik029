@@ -209,7 +209,7 @@ const aashik = {
   }
 </style>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> **GitHub Analytics**
+## **GitHub Analytics**
 
 <p align="center">
 <img width="49%" class="gh-card" src="https://github-readme-streak-stats.herokuapp.com/?user=AashikTech&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=a78bfa&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9" />
