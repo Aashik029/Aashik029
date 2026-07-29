@@ -6,7 +6,7 @@
 <!-- MAIN HEADING -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=AASHIK%20AHAMED&height=100&fontSize=70&fontAlignY=50&animation=fadeIn" />
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 <!-- SUBTITLE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=CS%20Engineering%20Student%20%7C%20Full-Stack%20Builder%20%7C%20Aspiring%20AI%20Automation%20Developer&height=40&fontSize=18&fontAlignY=50&animation=fadeIn" />
