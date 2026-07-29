@@ -33,7 +33,7 @@
 const aashik = {
     identity: "Aashik Ahamed",
     role: "CS Engineering Student",
-    vision: "AI Automation Developer",
+    vision: "Full Stack Web Developer",
     mission: "Building intelligent systems that scale",
     
     currentFocus: [
