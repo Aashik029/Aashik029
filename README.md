@@ -3,10 +3,15 @@
 <!-- ANIMATED WAVE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35" />
 
-<!-- GLOWING TITLE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=AASHIK%20AHAMED&height=80&fontSize=70&fontAlignY=50&desc=CS%20Engineering%20Student%20%7C%20Full-Stack%20Builder%20%7C%20Aspiring%20AI%20Automation%20Developer&descSize=18&descAlignY=80&animation=fadeIn" />
+<!-- MAIN HEADING -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=AASHIK%20AHAMED&height=100&fontSize=70&fontAlignY=50&animation=fadeIn" />
 
-<br/><br/>
+<br/><br/><br/><br/>
+
+<!-- SUBTITLE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=CS%20Engineering%20Student%20%7C%20Full-Stack%20Builder%20%7C%20Aspiring%20AI%20Automation%20Developer&height=40&fontSize=18&fontAlignY=50&animation=fadeIn" />
+
+<br/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Building+Scalable+Full-Stack+Applications;Engineering+AI-Powered+Automation+Solutions;Crafting+Premium+Digital+Experiences" alt="Typing SVG" /></a>
