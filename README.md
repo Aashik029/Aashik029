@@ -21,16 +21,22 @@
 <!-- PROFILE STATS & SOCIAL PROOF -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AashikTech&label=Profile%20Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AashikTech?label=Followers&style=for-the-badge&color=7c3aed&labelColor=161b22" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AashikTech?label=Total%20Stars&style=for-the-badge&color=06b6d4&labelColor=161b22" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/AashikTech?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AashikTech?label=Total%20Stars&style=for-the-badge&color=06b6d4&labelColor=164e63" alt="Stars" />
 </p>
-
-</div>
 
 <br/>
 
-<!-- SECTION: ABOUT ME -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=50&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+ABOUT+ME&fontSize=24&fontAlignY=50&animation=fadeIn" />
+<!-- DECORATIVE LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" /> **About Me**
+
+
 
 ```typescript
 const aashik = {
@@ -38,20 +44,20 @@ const aashik = {
     role: "CS Engineering Student",
     vision: "Full Stack Web Developer",
     mission: "Building intelligent systems that scale",
-
+    
     currentFocus: [
         "🤖 AI Integration & Automation Workflows",
         "⚡ High-Performance Full-Stack Architecture",
         "🔒 Enterprise-Grade Security Systems",
         "🚀 Real-Time Collaborative Platforms"
     ],
-
+    
     philosophy: "Code is poetry. Automation is art.",
     status: "Open to collaboration & internships"
 };
 ```
 
-<br/>
+<br clear="right"/>
 
 <div align="center">
 
@@ -60,65 +66,44 @@ const aashik = {
 
 <br/>
 
-<!-- SECTION: TECHNOLOGY ARSENAL -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=50&text=%F0%9F%9A%80+TECHNOLOGY+ARSENAL&fontSize=24&fontAlignY=50&animation=fadeIn" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> **Technology Arsenal**
 
-<br/>
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/LANGUAGES-8b5cf6?style=for-the-badge&labelColor=161b22" />
-
+### **Languages**
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=161b22" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0f172a" />
 </p>
 
-<br/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/FRONTEND%20ENGINEERING-06b6d4?style=for-the-badge&labelColor=161b22" />
-
+### **Frontend Engineering**
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0f172a" />
 </p>
 
-<br/>
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASE-10b981?style=for-the-badge&labelColor=161b22" />
-
+### **Backend & Database**
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1e293b" />
 </p>
 
-<br/>
-
-<!-- Security -->
-<img src="https://img.shields.io/badge/SECURITY%20%26%20APIS-f59e0b?style=for-the-badge&labelColor=161b22" />
-
+### **Security & APIs**
 <p>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=7c3aed" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1e1b4b" />
 </p>
 
-<br/>
-
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/DEVOPS%20%26%20TOOLS-ef4444?style=for-the-badge&labelColor=161b22" />
-
+### **DevOps & Tools**
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" />
 </p>
 
 <br/>
@@ -128,17 +113,13 @@ const aashik = {
 
 <br/>
 
-<!-- SECTION: FEATURED PROJECTS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=50&text=%F0%9F%92%BB+FEATURED+PROJECTS&fontSize=24&fontAlignY=50&animation=fadeIn" />
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> **Featured Projects**
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=40&text=%F0%9F%8F%A2+HRMS+%26+PAYROLL&fontSize=16&fontAlignY=50" />
-
+### 🏢 **Enterprise HRMS & Payroll**
 **Enterprise-Grade Automation System**
 - **Tech:** JWT, RBAC, MongoDB
 - **Features:** Payroll Automation, Attendance Tracking, Leave Management, Role-Based Dashboards
@@ -150,10 +131,9 @@ const aashik = {
 </p>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=40&text=%F0%9F%9B%8D%EF%B8%8F+AI+E-COMMERCE&fontSize=16&fontAlignY=50" />
-
+### 🛍️ **AI-Powered E-Commerce**
 **Intelligent Shopping Platform**
 - **Tech:** MERN, Redis, Vector Search
 - **Features:** AI Product Search, Smart Recommendations, Real-Time Cart, Admin Analytics
@@ -165,10 +145,9 @@ const aashik = {
 </p>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=40&text=%F0%9F%92%BC+SaaS+HUB&fontSize=16&fontAlignY=50" />
-
+### 💼 **SaaS Collaboration Hub**
 **Real-Time Workspace Platform**
 - **Tech:** TypeScript, Socket.IO, Redis
 - **Features:** Live Chat System, Workspace Management, Document Collaboration, Channel Organization
@@ -190,10 +169,7 @@ const aashik = {
 
 <br/>
 
-<!-- SECTION: ACHIEVEMENTS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=50&text=%F0%9F%8F%86+ACHIEVEMENTS+%26+RECOGNITION&fontSize=24&fontAlignY=50&animation=fadeIn" />
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> **Achievements & Recognition**
 
 <table>
 <tr>
@@ -225,10 +201,7 @@ const aashik = {
 
 <br/>
 
-<!-- SECTION: GITHUB ANALYTICS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=50&text=%F0%9F%93%8A+GITHUB+ANALYTICS&fontSize=24&fontAlignY=50&animation=fadeIn" />
-
-<br/>
+## **GitHub Analytics**
 
 <p align="center">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AashikTech&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=a78bfa&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9" />
@@ -239,22 +212,25 @@ const aashik = {
 
 <br/>
 
+<br/>
+
+
+
 <!-- DECORATIVE LINE -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <br/>
 
-<!-- SECTION: CONNECT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangular&color=gradient&customColorList=6,12,20&height=50&text=%F0%9F%93%9E+LET%27S+CONNECT+%26+COLLABORATE&fontSize=24&fontAlignY=50&animation=fadeIn" />
 
-<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="30" /> **Let's Connect & Collaborate**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aashikahamed029/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="LinkedIn" />
 </a>
 <a href="mailto:aashikahamed029@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
 </a>
 </p>
 
