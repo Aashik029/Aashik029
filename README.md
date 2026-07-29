@@ -192,19 +192,35 @@ const aashik = {
 
 <br/>
 
+<style>
+  .gh-card {
+    transition: all 0.3s ease;
+  }
+  .gh-card:hover {
+    transform: scale(1.03);
+    filter: drop-shadow(0 0 18px rgba(88, 166, 255, 0.45));
+  }
+  .gh-wide {
+    transition: all 0.3s ease;
+  }
+  .gh-wide:hover {
+    transform: scale(1.02);
+    filter: drop-shadow(0 0 24px rgba(167, 139, 250, 0.45));
+  }
+</style>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> **GitHub Analytics**
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AashikTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AashikTech&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=a78bfa&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9" />
+<img width="49%" class="gh-card" src="https://github-readme-streak-stats.herokuapp.com/?user=AashikTech&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=a78bfa&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9" />
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashikTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" />
+<img width="49%" class="gh-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashikTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" />
 </p>
 
 <!-- CONTRIBUTION GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AashikTech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true&area_color=7c3aed&custom_title=Contribution%20Graph" />
+<img width="100%" class="gh-wide" src="https://github-readme-activity-graph.vercel.app/graph?username=AashikTech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true&area_color=7c3aed&custom_title=Contribution%20Graph" />
 
 <br/>
 
